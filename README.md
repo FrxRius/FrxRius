@@ -1,3 +1,3 @@
 # FrxRius_
-Developer
+Developer,
 Founder Of HexTeam And Worker At Teotechnologies
